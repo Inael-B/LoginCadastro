@@ -33,7 +33,7 @@ export default function Register(){
                 <div id="Content" className="max-w-[420px]">
                     <div>
                         <h2 className=" text-4xl">Welcome Back 👋</h2>
-                        <h3 className=" text-xl leading-[32px] mt-[16px]">Today is a new day. It's your day. You shape it. 
+                        <h3 className=" text-xl leading-[32px] mt-[16px]">Today is a new day. It&apos;s your day. You shape it. 
                         Sign in to start managing your projects.</h3>
                     </div>
                     <form className="space-y-[16px] flex flex-col mt-[48px] mb-[16px]">
